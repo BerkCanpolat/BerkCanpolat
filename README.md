@@ -12,6 +12,7 @@ Tech Stack:
 - iOS: Swift, UIKit, MVVM, RxSwift, Protocol
 - Flutter: Dart, Bloc, Firebase, MVVM
 - Other: RESTful APIs, Core Data, Dependency Injection, Git, Sqlite
+
 Connect with Me:
 LinkedIn: [linkedin.com/in/berkcanpolat](https://www.linkedin.com/in/cnpltberk/)
 
