@@ -1,9 +1,20 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">A passionate Mobil Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Flutter - Swift**
+a passionate mobile app developer focusing on Swift (iOS) and Flutter (cross-platform). I love building applications that enhance user experience and solve real-world problems.
 
-- 📫 How to reach me **canpolatberk19@gmail.com**
+About Me:
+- Currently developing mobile applications using Swift (UIKit, MVVM, RxSwift, Protocol) and Flutter (Dart, Provider, Bloc)
+- Enthusiastic about clean architecture, design patterns, and best coding practices
+- Always exploring new technologies and improving my skills
+- Sharing my projects and experiences on GitHub & LinkedIn
+Tech Stack:
+- iOS: Swift, UIKit, MVVM, RxSwift, Protocol
+- Flutter: Dart, Bloc, Firebase, MVVM
+- Other: RESTful APIs, Core Data, Dependency Injection, Git, Sqlite
+Connect with Me:
+LinkedIn: [linkedin.com/in/berkcanpolat](https://www.linkedin.com/in/cnpltberk/)
+Let's build something amazing together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
