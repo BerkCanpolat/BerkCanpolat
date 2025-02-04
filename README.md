@@ -14,6 +14,7 @@ Tech Stack:
 - Other: RESTful APIs, Core Data, Dependency Injection, Git, Sqlite
 Connect with Me:
 LinkedIn: [linkedin.com/in/berkcanpolat](https://www.linkedin.com/in/cnpltberk/)
+
 Let's build something amazing together!
 
 <h3 align="left">Connect with me:</h3>
