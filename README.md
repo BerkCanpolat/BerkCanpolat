@@ -67,3 +67,8 @@ I enjoy working with clean architectures, well-structured service layers, and re
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
 
+<p align="left">
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.128b6e6a.svg" height="30"/>
+  <img src="https://ui.shadcn.com/favicon.ico" height="30"/>
+</p>
+
