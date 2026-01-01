@@ -72,3 +72,5 @@ I enjoy working with clean architectures, well-structured service layers, and re
   <img src="https://ui.shadcn.com/favicon.ico" height="30"/>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkcanpolat&label=Profile%20views&color=0e75b6&style=flat" alt="berkcanpolat" /> </p>
+
