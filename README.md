@@ -11,7 +11,7 @@ I enjoy working with clean architectures, well-structured service layers, and re
 - 🎯 Focused on **Frontend Development** with **React & TypeScript**
 - 🧠 Interested in **scalable frontend architectures** and clean code practices
 - 🔁 Experienced with **React Query**, service-based API layers, and state management
-- 📱 Strong background in **mobile development**, now fully transitioning to web
+- 📱 Strong background in mobile development, bringing architectural thinking and best practices into frontend development
 - 🌱 Constantly improving through real projects and hands-on practice
 
 ---
@@ -39,25 +39,6 @@ I enjoy working with clean architectures, well-structured service layers, and re
 - Git & GitHub
 - Responsive & Mobile-first design
 - Clean Architecture principles
-
----
-
-### 📌 Featured Projects
-
-- **E-commerce Web App**
-  - React, TypeScript, React Query
-  - Service-based API architecture
-  - Authentication, cart logic, responsive UI
-
-- **Weather App**
-  - API-driven data fetching
-  - Modular service & query structure
-
-- **Movie App**
-  - Pagination & data caching with React Query
-  - Clean UI & reusable components
-
-> Detailed explanations are available in each project's repository.
 
 ---
 
