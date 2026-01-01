@@ -60,18 +60,10 @@ I enjoy working with clean architectures, well-structured service layers, and re
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcanpolat&layout=compact&theme=default" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkcanpolat&show_icons=true&theme=default" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=berkcanpolat&theme=default" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=berkcanpolat&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
 
